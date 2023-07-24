@@ -19,4 +19,4 @@ Software: Python - SQL - BI Tools (Tableau, Looker, Power BI) - SaaS products - 
 
 Industry: Statistical Analysis - Data Visualization - Machine Learning - Business Acumen - Quality Control - Data Ethics & Privacy - Big Data Technology - Technical Fluency & Complexity Translation - DevOps - Agile Framework
 
-I'm enthusiastic about pushing the boundaries of data-driven insights and constantly seeking innovative ways to drive business growth and success. I'm excited to share my Data Science projects and collaborate with like-minded individuals within this community. Feel free to explore my GitHub repository, and don't hesitate to reach out for any questions or potential collaborations! Let's harness the power of data together!
+I'm enthusiastic about pushing the boundaries of data-driven insights and constantly seeking innovative ways to drive business growth and success. I'm excited to share my Data Science & Data Analytics projects and collaborate with like-minded individuals within this community. Feel free to explore my GitHub repository, and don't hesitate to reach out for any questions or potential collaborations! Let's harness the power of data together!
