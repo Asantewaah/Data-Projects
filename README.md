@@ -1,5 +1,5 @@
-# Data-Science-Projects
-Projects Completed From DataCamp
+# Data-Projects
+My Data Science & Data Analytics Projects
 
 # About Me
 
