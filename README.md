@@ -11,7 +11,7 @@ In my journey, I've been a pioneer in the implementation and optimization of SQL
 
 With expertise in orchestrating data-driven strategies using Google Ads and Facebook Ads, I've conducted thorough analysis of campaign performance metrics, A/B testing, and continuous monitoring. As a result, I've achieved improved campaign performance with a 20% boost in click-through rates and significant cost savings of up to 50% of the general ad budget.
 
-Beyond my professional endeavors, I take pride in my contribution to education. I've led quality control efforts for an ed-tech company and implemented an optimized system to identify weaknesses in students' educational backgrounds, resulting in a commendable 20% improvement in student comprehension. Additionally, I've had the privilege of educating and mentoring 25+ students in Data Science, ensuring their success and maintaining a perfect 100% student satisfaction rate.
+Beyond my professional endeavors, I take pride in my contribution to academic projects. I've led quality control efforts for an ed-tech company and implemented an optimized system to identify weaknesses in students' educational backgrounds, resulting in a commendable 20% improvement in student comprehension. Additionally, I've had the privilege of educating and mentoring 25+ students in Data Science, ensuring their success and maintaining a perfect 100% student satisfaction rate.
 
 **Skills Summary:**
 
